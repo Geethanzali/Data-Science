@@ -15,6 +15,9 @@ Implemented Warning System and performed data mining for a specific place using 
 Gven the Attribute that is the latitude and longitude, the system will give out useful information: 
 
 **a)** Total number of crimes occured in this area,
+
 **b)** Number of types of offense occured in this area,
+
 **c)** Most frequent type of crime occurence and 
+
 **d)** Number of times the most frequent crime has occured
