@@ -1,0 +1,20 @@
+
+-----------------------------------
+This dataset has 506 Rows 9 Atributes
+
+real value attributes
+-----------------------------------
+   Attribute_ID             Attribute_Name  Missing       Mean     Median      Sdev       Min        Max
+1             1                house_value        0  233189.72  221000.00  91889.02  63000.00  514000.00
+2             2                 Crime_Rate        0       3.68       0.26      8.83      0.01      92.56
+3             4               num_of_rooms        6       6.27       6.00      0.73      4.00       9.00
+4             5  dist_to_employment_center        2       3.79       3.19      2.11      1.13      12.13
+5             6          property_tax_rate        0     408.24     330.00    168.54    187.00     711.00
+6             7      student_teacher_ratio        2      18.46      19.10      2.17     12.60      22.00
+7             8              Nitric_Oxides        5       0.55       0.54      0.12      0.38       0.87
+8             9    accessiblity_to_highway        1       9.56       5.00      8.71      1.00      24.00
+
+symbolic attributes
+-----------------------------------
+   Attribute_ID       Attribute_Name  Missing arity      MCVs_counts
+1             3  Charles_river_bound        7     2  No(464) Yes(35)
