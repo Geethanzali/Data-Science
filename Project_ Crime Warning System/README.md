@@ -10,7 +10,7 @@ Implemented Warning System and performed data mining for a specific place using 
 
 2) **Crime Predictive Analysis** for likelihood of future crimes
 
-3) Density Clustering Based Algorithms for Warning system (DBSCAN & HDBSCAN)
+3) **Density Clustering Based Algorithms** for Warning system (DBSCAN & HDBSCAN)
 
 Gven the Attribute that is the latitude and longitude, the system will give out useful information: 
 
